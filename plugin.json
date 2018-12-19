@@ -1,0 +1,24 @@
+{
+    "label": {
+        "en": "Backend Article Injection Example",
+        "de": "Backend Article Injection Example"
+    },
+    "copyright": "Copyright &copy; 2018, Odessite",
+    "license": "proprietary",
+    "link": "http://odessite.com.ua/",
+    "author": "Odessite",
+    "support": "info@shopwarrior.net",
+    "currentVersion": "1.0.0",
+    "changelog": {
+        "en": {
+            "1.0.0": "First release"
+        }
+    },
+
+    "compatibility": {
+        "minimumVersion": "5.0.0",
+        "maximumVersion": null,
+        "blacklist": [
+        ]
+    }
+}
